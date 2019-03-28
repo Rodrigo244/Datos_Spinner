@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ReadFile</string>
+
+    <string-array name="prueba">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Distrito Federal</item>
+        <item>Durango</item>
+        <item>Estado de México</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+
+        <item>OTRO</item>
+
+    </string-array>
+</resources>
